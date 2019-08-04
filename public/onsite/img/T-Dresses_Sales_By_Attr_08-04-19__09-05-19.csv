@@ -1,0 +1,362 @@
+﻿id,productvar,Variant,parent_prod_id,stock,sales,QtySoled,Artist_Name
+127057,Yoga and unicorns - Variant ( XS ), ( XS ),127037,0,8386,14,The Souled Store 
+127058,Yoga and unicorns - Variant ( S ), ( S ),127037,-1,2995,5,The Souled Store 
+127059,Yoga and unicorns - Variant ( M ), ( M ),127037,0,2396,4,The Souled Store 
+127060,Yoga and unicorns - Variant ( L ), ( L ),127037,0,2995,5,The Souled Store 
+119458,Wonder Woman: Logo - Variant ( XXL ), ( XXL ),119410,1,17970,30,DC Comics™ 
+119453,Wonder Woman: Logo - Variant ( XS ), ( XS ),119410,72,9584,16,DC Comics™ 
+119457,Wonder Woman: Logo - Variant ( XL ), ( XL ),119410,5,19767,33,DC Comics™ 
+119454,Wonder Woman: Logo - Variant ( S ), ( S ),119410,40,23361,39,DC Comics™ 
+119455,Wonder Woman: Logo - Variant ( M ), ( M ),119410,255,32945,55,DC Comics™ 
+119456,Wonder Woman: Logo - Variant ( L ), ( L ),119410,186,26955,45,DC Comics™ 
+127001,Woke Up Like This - Variant ( XXL ), ( XXL ),126919,12,6589,11,The Souled Store 
+126996,Woke Up Like This - Variant ( XS ), ( XS ),126919,43,599,1,The Souled Store 
+127000,Woke Up Like This - Variant ( XL ), ( XL ),126919,23,2396,4,The Souled Store 
+126997,Woke Up Like This - Variant ( S ), ( S ),126919,56,1198,2,The Souled Store 
+126998,Woke Up Like This - Variant ( M ), ( M ),126919,46,1198,2,The Souled Store 
+126999,Woke Up Like This - Variant ( L ), ( L ),126919,50,2995,5,The Souled Store 
+126995,Weird? Always - Variant ( XXL ), ( XXL ),126922,40,10183,17,The Souled Store 
+126990,Weird? Always - Variant ( XS ), ( XS ),126922,46,10782,18,The Souled Store 
+126994,Weird? Always - Variant ( XL ), ( XL ),126922,59,11381,19,The Souled Store 
+126991,Weird? Always - Variant ( S ), ( S ),126922,154,7188,12,The Souled Store 
+126992,Weird? Always - Variant ( M ), ( M ),126922,220,14376,24,The Souled Store 
+126993,Weird? Always - Variant ( L ), ( L ),126922,123,10183,17,The Souled Store 
+126989,We're All Mad - Variant ( XXL ), ( XXL ),126925,9,1797,3,The Souled Store 
+126984,We're All Mad - Variant ( XS ), ( XS ),126925,31,9584,16,The Souled Store 
+126988,We're All Mad - Variant ( XL ), ( XL ),126925,39,10782,18,The Souled Store 
+126985,We're All Mad - Variant ( S ), ( S ),126925,130,10183,17,The Souled Store 
+126986,We're All Mad - Variant ( M ), ( M ),126925,36,13777,23,The Souled Store 
+126987,We're All Mad - Variant ( L ), ( L ),126925,94,13777,23,The Souled Store 
+127056,Wanderlust - Variant ( XXL ), ( XXL ),127036,96,22762,38,The Souled Store 
+127051,Wanderlust - Variant ( XS ), ( XS ),127036,0,7188,12,The Souled Store 
+127055,Wanderlust - Variant ( XL ), ( XL ),127036,97,19767,33,The Souled Store 
+127052,Wanderlust - Variant ( S ), ( S ),127036,57,20965,35,The Souled Store 
+127053,Wanderlust - Variant ( M ), ( M ),127036,40,26356,44,The Souled Store 
+127054,Wanderlust - Variant ( L ), ( L ),127036,55,21564,36,The Souled Store 
+133705,Unimpressed - Variant ( XXL ), ( XXL ),133699,15,4193,7,The Souled Store 
+133700,Unimpressed - Variant ( XS ), ( XS ),133699,13,1797,3,The Souled Store 
+133704,Unimpressed - Variant ( XL ), ( XL ),133699,58,599,1,The Souled Store 
+133701,Unimpressed - Variant ( S ), ( S ),133699,35,4792,8,The Souled Store 
+133702,Unimpressed - Variant ( M ), ( M ),133699,34,3594,6,The Souled Store 
+133703,Unimpressed - Variant ( L ), ( L ),133699,27,3594,6,The Souled Store 
+126978,Trouble Maker - Variant ( XS ), ( XS ),126923,160,5990,10,The Souled Store 
+126982,Trouble Maker - Variant ( XL ), ( XL ),126923,43,9584,16,The Souled Store 
+126979,Trouble Maker - Variant ( S ), ( S ),126923,153,8985,15,The Souled Store 
+126980,Trouble Maker - Variant ( M ), ( M ),126923,118,8386,14,The Souled Store 
+126981,Trouble Maker - Variant ( L ), ( L ),126923,51,8386,14,The Souled Store 
+126977,Talk Nerdy To Me - Variant ( XXL ), ( XXL ),126918,0,1198,2,The Souled Store 
+126976,Talk Nerdy To Me - Variant ( XL ), ( XL ),126918,3,13178,22,The Souled Store 
+126973,Talk Nerdy To Me - Variant ( S ), ( S ),126918,0,8386,14,The Souled Store 
+126974,Talk Nerdy To Me - Variant ( M ), ( M ),126918,0,2995,5,The Souled Store 
+126975,Talk Nerdy To Me - Variant ( L ), ( L ),126918,8,14975,25,The Souled Store 
+119452,Stay Weird - Variant ( XXL ), ( XXL ),119407,81,17371,29,The Souled Store 
+119447,Stay Weird - Variant ( XS ), ( XS ),119407,48,10782,18,The Souled Store 
+119451,Stay Weird - Variant ( XL ), ( XL ),119407,96,15574,26,The Souled Store 
+119448,Stay Weird - Variant ( S ), ( S ),119407,182,7188,12,The Souled Store 
+119449,Stay Weird - Variant ( M ), ( M ),119407,167,17970,30,The Souled Store 
+119450,Stay Weird - Variant ( L ), ( L ),119407,133,15574,26,The Souled Store 
+119697,Space Pattern - Variant ( XS ), ( XS ),119681,0,599,1,The Souled Store 
+119698,Space Pattern - Variant ( S ), ( S ),119681,0,1198,2,The Souled Store 
+119699,Space Pattern - Variant ( M ), ( M ),119681,0,16173,27,The Souled Store 
+119700,Space Pattern - Variant ( L ), ( L ),119681,0,24559,41,The Souled Store 
+134044,Solids: Wine - Variant ( XXL ), ( XXL ),134038,93,20965,35,The Souled Store 
+134039,Solids: Wine - Variant ( XS ), ( XS ),134038,1,25158,42,The Souled Store 
+134043,Solids: Wine - Variant ( XL ), ( XL ),134038,0,1797,3,The Souled Store 
+134040,Solids: Wine - Variant ( S ), ( S ),134038,1,52712,88,The Souled Store 
+134041,Solids: Wine - Variant ( M ), ( M ),134038,101,24559,41,The Souled Store 
+134042,Solids: Wine - Variant ( L ), ( L ),134038,0,47920,80,The Souled Store 
+142232,Solids: Red Melange - Variant ( XS ), ( XS ),142231,0,2396,4,The Souled Store 
+142236,Solids: Red Melange - Variant ( XL ), ( XL ),142231,0,2995,5,The Souled Store 
+142233,Solids: Red Melange - Variant ( S ), ( S ),142231,2,8386,14,The Souled Store 
+142234,Solids: Red Melange - Variant ( M ), ( M ),142231,0,13777,23,The Souled Store 
+142235,Solids: Red Melange - Variant ( L ), ( L ),142231,0,7188,12,The Souled Store 
+119144,Solids: Peach Pink - Variant ( XXL ), ( XXL ),119138,41,11980,20,The Souled Store 
+119139,Solids: Peach Pink - Variant ( XS ), ( XS ),119138,70,11381,19,The Souled Store 
+119143,Solids: Peach Pink - Variant ( XL ), ( XL ),119138,73,7188,12,The Souled Store 
+119140,Solids: Peach Pink - Variant ( S ), ( S ),119138,64,13178,22,The Souled Store 
+119141,Solids: Peach Pink - Variant ( M ), ( M ),119138,219,20366,34,The Souled Store 
+119142,Solids: Peach Pink - Variant ( L ), ( L ),119138,176,10782,18,The Souled Store 
+119109,Solids: Navy Blue - Variant ( XXL ), ( XXL ),119103,38,9584,16,The Souled Store 
+119104,Solids: Navy Blue - Variant ( XS ), ( XS ),119103,77,1198,2,The Souled Store 
+119108,Solids: Navy Blue - Variant ( XL ), ( XL ),119103,57,2995,5,The Souled Store 
+119105,Solids: Navy Blue - Variant ( S ), ( S ),119103,102,599,1,The Souled Store 
+119106,Solids: Navy Blue - Variant ( M ), ( M ),119103,184,4193,7,The Souled Store 
+119107,Solids: Navy Blue - Variant ( L ), ( L ),119103,93,2995,5,The Souled Store 
+146123,Solids: Mustard Yellow - Variant ( XXL ), ( XXL ),146105,0,11381,19,The Souled Store 
+146118,Solids: Mustard Yellow - Variant ( XS ), ( XS ),146105,4,9584,16,The Souled Store 
+146122,Solids: Mustard Yellow - Variant ( XL ), ( XL ),146105,0,8985,15,The Souled Store 
+146119,Solids: Mustard Yellow - Variant ( S ), ( S ),146105,14,19767,33,The Souled Store 
+146120,Solids: Mustard Yellow - Variant ( M ), ( M ),146105,37,17970,30,The Souled Store 
+146121,Solids: Mustard Yellow - Variant ( L ), ( L ),146105,36,12579,21,The Souled Store 
+130788,Solids: Mint Green - Variant ( XS ), ( XS ),130787,0,2995,5,The Souled Store 
+130792,Solids: Mint Green - Variant ( XL ), ( XL ),130787,13,5391,9,The Souled Store 
+130789,Solids: Mint Green - Variant ( S ), ( S ),130787,0,11980,20,The Souled Store 
+130790,Solids: Mint Green - Variant ( M ), ( M ),130787,27,16772,28,The Souled Store 
+130791,Solids: Mint Green - Variant ( L ), ( L ),130787,16,10183,17,The Souled Store 
+136140,Solids: Maroon Melange (3/4th sleeve) - Variant ( XS ), ( XS ),136128,0,599,1,The Souled Store 
+136141,Solids: Maroon Melange (3/4th sleeve) - Variant ( S ), ( S ),136128,-2,599,1,The Souled Store 
+119126,Solids: Maroon Melange - Variant ( S ), ( S ),119124,3,2396,4,The Souled Store 
+133949,Solids: Marine Melange - Variant ( XXL ), ( XXL ),133938,9,7188,12,The Souled Store 
+133944,Solids: Marine Melange - Variant ( XS ), ( XS ),133938,18,5990,10,The Souled Store 
+133948,Solids: Marine Melange - Variant ( XL ), ( XL ),133938,23,4193,7,The Souled Store 
+133945,Solids: Marine Melange - Variant ( S ), ( S ),133938,54,4193,7,The Souled Store 
+133946,Solids: Marine Melange - Variant ( M ), ( M ),133938,93,4792,8,The Souled Store 
+133947,Solids: Marine Melange - Variant ( L ), ( L ),133938,67,1198,2,The Souled Store 
+143234,Solids: Hoodie Warmer - Variant ( XXL ), ( XXL ),143228,12,7188,12,The Souled Store 
+143229,Solids: Hoodie Warmer - Variant ( XS ), ( XS ),143228,73,9584,16,The Souled Store 
+143233,Solids: Hoodie Warmer - Variant ( XL ), ( XL ),143228,62,13178,22,The Souled Store 
+143230,Solids: Hoodie Warmer - Variant ( S ), ( S ),143228,286,7787,13,The Souled Store 
+143231,Solids: Hoodie Warmer - Variant ( M ), ( M ),143228,284,10782,18,The Souled Store 
+143232,Solids: Hoodie Warmer - Variant ( L ), ( L ),143228,38,19168,32,The Souled Store 
+119146,Solids: Charcoal Melange - Variant ( XS ), ( XS ),119145,63,2396,4,The Souled Store 
+119150,Solids: Charcoal Melange - Variant ( XL ), ( XL ),119145,61,5391,9,The Souled Store 
+119147,Solids: Charcoal Melange - Variant ( S ), ( S ),119145,151,1797,3,The Souled Store 
+119148,Solids: Charcoal Melange - Variant ( M ), ( M ),119145,246,1198,2,The Souled Store 
+119149,Solids: Charcoal Melange - Variant ( L ), ( L ),119145,158,3594,6,The Souled Store 
+119123,Solids: Brick Red - Variant ( XXL ), ( XXL ),119117,67,10183,17,The Souled Store 
+119118,Solids: Brick Red - Variant ( XS ), ( XS ),119117,104,8386,14,The Souled Store 
+119122,Solids: Brick Red - Variant ( XL ), ( XL ),119117,103,17970,30,The Souled Store 
+119119,Solids: Brick Red - Variant ( S ), ( S ),119117,60,17371,29,The Souled Store 
+119120,Solids: Brick Red - Variant ( M ), ( M ),119117,110,21564,36,The Souled Store 
+119121,Solids: Brick Red - Variant ( L ), ( L ),119117,73,19168,32,The Souled Store 
+119137,Solids: Bottle Green - Variant ( XXL ), ( XXL ),119131,22,21564,36,The Souled Store 
+119132,Solids: Bottle Green - Variant ( XS ), ( XS ),119131,95,8985,15,The Souled Store 
+119136,Solids: Bottle Green - Variant ( XL ), ( XL ),119131,174,20366,34,The Souled Store 
+119133,Solids: Bottle Green - Variant ( S ), ( S ),119131,189,12579,21,The Souled Store 
+119134,Solids: Bottle Green - Variant ( M ), ( M ),119131,183,12579,21,The Souled Store 
+119135,Solids: Bottle Green - Variant ( L ), ( L ),119131,185,14376,24,The Souled Store 
+119102,Solids: Black - Variant ( XXL ), ( XXL ),119096,148,21564,36,The Souled Store 
+119097,Solids: Black - Variant ( XS ), ( XS ),119096,182,8985,15,The Souled Store 
+119101,Solids: Black - Variant ( XL ), ( XL ),119096,365,11381,19,The Souled Store 
+119098,Solids: Black - Variant ( S ), ( S ),119096,287,10183,17,The Souled Store 
+119099,Solids: Black - Variant ( M ), ( M ),119096,299,19767,33,The Souled Store 
+119100,Solids: Black - Variant ( L ), ( L ),119096,323,10183,17,The Souled Store 
+126971,Slay - Variant ( XXL ), ( XXL ),126929,0,1797,3,The Souled Store 
+126970,Slay - Variant ( XL ), ( XL ),126929,1,1797,3,The Souled Store 
+126967,Slay - Variant ( S ), ( S ),126929,0,11980,20,The Souled Store 
+126968,Slay - Variant ( M ), ( M ),126929,7,31148,52,The Souled Store 
+126969,Slay - Variant ( L ), ( L ),126929,17,15574,26,The Souled Store 
+143960,Shark Pattern - Variant ( XXL ), ( XXL ),143952,0,2396,4,The Souled Store 
+143955,Shark Pattern - Variant ( XS ), ( XS ),143952,-1,6589,11,The Souled Store 
+143959,Shark Pattern - Variant ( XL ), ( XL ),143952,0,5391,9,The Souled Store 
+143956,Shark Pattern - Variant ( S ), ( S ),143952,13,16173,27,The Souled Store 
+143957,Shark Pattern - Variant ( M ), ( M ),143952,49,10782,18,The Souled Store 
+143958,Shark Pattern - Variant ( L ), ( L ),143952,30,10183,17,The Souled Store 
+119696,Sassy Since Birth - Variant ( XXL ), ( XXL ),119682,0,20965,35,The Souled Store 
+119691,Sassy Since Birth - Variant ( XS ), ( XS ),119682,161,10782,18,The Souled Store 
+119695,Sassy Since Birth - Variant ( XL ), ( XL ),119682,0,13178,22,The Souled Store 
+119692,Sassy Since Birth - Variant ( S ), ( S ),119682,180,16173,27,The Souled Store 
+119693,Sassy Since Birth - Variant ( M ), ( M ),119682,201,25158,42,The Souled Store 
+119694,Sassy Since Birth - Variant ( L ), ( L ),119682,0,28153,47,The Souled Store 
+126960,Powerpuff Girls: Trio - Variant ( XS ), ( XS ),126924,11,13178,22,The Powerpuff Girls™ 
+126964,Powerpuff Girls: Trio - Variant ( XL ), ( XL ),126924,32,38336,64,The Powerpuff Girls™ 
+126961,Powerpuff Girls: Trio - Variant ( S ), ( S ),126924,271,29950,50,The Powerpuff Girls™ 
+126962,Powerpuff Girls: Trio - Variant ( M ), ( M ),126924,126,41930,70,The Powerpuff Girls™ 
+126963,Powerpuff Girls: Trio - Variant ( L ), ( L ),126924,66,34742,58,The Powerpuff Girls™ 
+133965,Popsicle Pattern - Variant ( XS ), ( XS ),133958,0,599,1,The Souled Store 
+133969,Popsicle Pattern - Variant ( XL ), ( XL ),133958,0,1198,2,The Souled Store 
+133968,Popsicle Pattern - Variant ( L ), ( L ),133958,0,599,1,The Souled Store 
+144336,Pocket Unicorn - Variant ( XXL ), ( XXL ),144330,0,5990,10,The Souled Store 
+144331,Pocket Unicorn - Variant ( XS ), ( XS ),144330,0,2995,5,The Souled Store 
+144335,Pocket Unicorn - Variant ( XL ), ( XL ),144330,0,11980,20,The Souled Store 
+144332,Pocket Unicorn - Variant ( S ), ( S ),144330,11,14376,24,The Souled Store 
+144333,Pocket Unicorn - Variant ( M ), ( M ),144330,34,17371,29,The Souled Store 
+144334,Pocket Unicorn - Variant ( L ), ( L ),144330,23,10782,18,The Souled Store 
+143968,Pocket Cat - Variant ( S ), ( S ),143954,0,5391,9,The Souled Store 
+143969,Pocket Cat - Variant ( M ), ( M ),143954,-1,27554,46,The Souled Store 
+143970,Pocket Cat - Variant ( L ), ( L ),143954,-1,9584,16,The Souled Store 
+126954,Pizza Pattern - Variant ( XS ), ( XS ),126921,0,1198,2,The Souled Store 
+126956,Pizza Pattern - Variant ( M ), ( M ),126921,0,4193,7,The Souled Store 
+126957,Pizza Pattern - Variant ( L ), ( L ),126921,0,3594,6,The Souled Store 
+127050,Pineapple Pattern - Variant ( XXL ), ( XXL ),127038,0,599,1,The Souled Store 
+127045,Pineapple Pattern - Variant ( XS ), ( XS ),127038,0,7188,12,The Souled Store 
+127049,Pineapple Pattern - Variant ( XL ), ( XL ),127038,0,23960,40,The Souled Store 
+127046,Pineapple Pattern - Variant ( S ), ( S ),127038,0,8985,15,The Souled Store 
+127047,Pineapple Pattern - Variant ( M ), ( M ),127038,17,95241,159,The Souled Store 
+127048,Pineapple Pattern - Variant ( L ), ( L ),127038,6,50316,84,The Souled Store 
+143703,Peanuts: Sleepy Snoopy - Variant ( XXL ), ( XXL ),143697,-1,599,1,Peanuts™ 
+143698,Peanuts: Sleepy Snoopy - Variant ( XS ), ( XS ),143697,0,1198,2,Peanuts™ 
+143702,Peanuts: Sleepy Snoopy - Variant ( XL ), ( XL ),143697,0,1198,2,Peanuts™ 
+143700,Peanuts: Sleepy Snoopy - Variant ( M ), ( M ),143697,0,1198,2,Peanuts™ 
+145352,Paw Pattern - Variant ( XXL ), ( XXL ),145337,0,17970,30,The Souled Store 
+145347,Paw Pattern - Variant ( XS ), ( XS ),145337,6,17371,29,The Souled Store 
+145351,Paw Pattern - Variant ( XL ), ( XL ),145337,7,14975,25,The Souled Store 
+145348,Paw Pattern - Variant ( S ), ( S ),145337,17,23361,39,The Souled Store 
+145349,Paw Pattern - Variant ( M ), ( M ),145337,58,16173,27,The Souled Store 
+145350,Paw Pattern - Variant ( L ), ( L ),145337,27,15574,26,The Souled Store 
+126953,Party Animal - Variant ( XXL ), ( XXL ),126920,25,5391,9,The Souled Store 
+126948,Party Animal - Variant ( XS ), ( XS ),126920,9,1198,2,The Souled Store 
+126952,Party Animal - Variant ( XL ), ( XL ),126920,46,5391,9,The Souled Store 
+126949,Party Animal - Variant ( S ), ( S ),126920,25,1198,2,The Souled Store 
+126950,Party Animal - Variant ( M ), ( M ),126920,28,3594,6,The Souled Store 
+126951,Party Animal - Variant ( L ), ( L ),126920,35,2995,5,The Souled Store 
+136139,Normal People Scare Me - Variant ( XXL ), ( XXL ),136129,26,5391,9,The Souled Store 
+136134,Normal People Scare Me - Variant ( XS ), ( XS ),136129,33,5391,9,The Souled Store 
+136138,Normal People Scare Me - Variant ( XL ), ( XL ),136129,59,7787,13,The Souled Store 
+136135,Normal People Scare Me - Variant ( S ), ( S ),136129,75,5391,9,The Souled Store 
+136136,Normal People Scare Me - Variant ( M ), ( M ),136129,64,4792,8,The Souled Store 
+136137,Normal People Scare Me - Variant ( L ), ( L ),136129,52,5990,10,The Souled Store 
+134066,Need More Space - Variant ( XXL ), ( XXL ),134060,4,7188,12,The Souled Store 
+134061,Need More Space - Variant ( XS ), ( XS ),134060,24,5391,9,The Souled Store 
+134065,Need More Space - Variant ( XL ), ( XL ),134060,38,5391,9,The Souled Store 
+134062,Need More Space - Variant ( S ), ( S ),134060,2,3594,6,The Souled Store 
+134063,Need More Space - Variant ( M ), ( M ),134060,17,2995,5,The Souled Store 
+134064,Need More Space - Variant ( L ), ( L ),134060,15,2396,4,The Souled Store 
+126942,Namaste B*tches - Variant ( XS ), ( XS ),126926,64,2396,4,The Souled Store 
+126946,Namaste B*tches - Variant ( XL ), ( XL ),126926,35,2396,4,The Souled Store 
+126943,Namaste B*tches - Variant ( S ), ( S ),126926,29,4792,8,The Souled Store 
+126944,Namaste B*tches - Variant ( M ), ( M ),126926,37,5990,10,The Souled Store 
+126945,Namaste B*tches - Variant ( L ), ( L ),126926,20,2995,5,The Souled Store 
+140538,Mustard Mania - Variant ( XXL ), ( XXL ),140478,0,6589,11,The Souled Store 
+140508,Mustard Mania - Variant ( XS ), ( XS ),140478,0,2396,4,The Souled Store 
+140512,Mustard Mania - Variant ( XL ), ( XL ),140478,0,1198,2,The Souled Store 
+140509,Mustard Mania - Variant ( S ), ( S ),140478,0,3594,6,The Souled Store 
+140510,Mustard Mania - Variant ( M ), ( M ),140478,0,50316,84,The Souled Store 
+140511,Mustard Mania - Variant ( L ), ( L ),140478,0,14376,24,The Souled Store 
+133574,Minimalist B*tch - Variant ( XXL ), ( XXL ),133561,4,1797,3,The Souled Store 
+133569,Minimalist B*tch - Variant ( XS ), ( XS ),133561,16,4193,7,The Souled Store 
+133573,Minimalist B*tch - Variant ( XL ), ( XL ),133561,30,2396,4,The Souled Store 
+133570,Minimalist B*tch - Variant ( S ), ( S ),133561,17,4193,7,The Souled Store 
+133571,Minimalist B*tch - Variant ( M ), ( M ),133561,19,2995,5,The Souled Store 
+133572,Minimalist B*tch - Variant ( L ), ( L ),133561,12,1797,3,The Souled Store 
+140501,Marvel: Logo - Variant ( XXL ), ( XXL ),140476,0,12582,18,Marvel™ 
+140496,Marvel: Logo - Variant ( XS ), ( XS ),140476,1,11883,17,Marvel™ 
+140500,Marvel: Logo - Variant ( XL ), ( XL ),140476,3,11184,16,Marvel™ 
+140497,Marvel: Logo - Variant ( S ), ( S ),140476,0,9786,14,Marvel™ 
+140498,Marvel: Logo - Variant ( M ), ( M ),140476,0,13980,20,Marvel™ 
+140499,Marvel: Logo - Variant ( L ), ( L ),140476,0,16776,24,Marvel™ 
+119728,Marijuana Leaf - Variant ( XXL ), ( XXL ),119685,35,1797,3,The Souled Store 
+119723,Marijuana Leaf - Variant ( XS ), ( XS ),119685,109,8985,15,The Souled Store 
+119727,Marijuana Leaf - Variant ( XL ), ( XL ),119685,64,22163,37,The Souled Store 
+119724,Marijuana Leaf - Variant ( S ), ( S ),119685,117,20965,35,The Souled Store 
+119725,Marijuana Leaf - Variant ( M ), ( M ),119685,147,20366,34,The Souled Store 
+119726,Marijuana Leaf - Variant ( L ), ( L ),119685,125,26356,44,The Souled Store 
+119434,Looney Tunes: Bugs - Variant ( XXL ), ( XXL ),119409,-1,21564,36,Looney Tunes™ 
+119429,Looney Tunes: Bugs - Variant ( XS ), ( XS ),119409,100,52712,88,Looney Tunes™ 
+119433,Looney Tunes: Bugs - Variant ( XL ), ( XL ),119409,0,38935,65,Looney Tunes™ 
+119430,Looney Tunes: Bugs - Variant ( S ), ( S ),119409,350,73078,122,Looney Tunes™ 
+119431,Looney Tunes: Bugs - Variant ( M ), ( M ),119409,223,91647,153,Looney Tunes™ 
+119432,Looney Tunes: Bugs - Variant ( L ), ( L ),119409,0,60499,101,Looney Tunes™ 
+126419,Lazy AF - Variant ( XS ), ( XS ),126417,55,1797,3,The Souled Store 
+126423,Lazy AF - Variant ( XL ), ( XL ),126417,66,1797,3,The Souled Store 
+126420,Lazy AF - Variant ( S ), ( S ),126417,63,2396,4,The Souled Store 
+126422,Lazy AF - Variant ( L ), ( L ),126417,61,1198,2,The Souled Store 
+126941,Kill'em With Kindness - Variant ( XXL ), ( XXL ),126928,30,17371,29,The Souled Store 
+126936,Kill'em With Kindness - Variant ( XS ), ( XS ),126928,67,1797,3,The Souled Store 
+126940,Kill'em With Kindness - Variant ( XL ), ( XL ),126928,48,15574,26,The Souled Store 
+126937,Kill'em With Kindness - Variant ( S ), ( S ),126928,118,11381,19,The Souled Store 
+126938,Kill'em With Kindness - Variant ( M ), ( M ),126928,116,14975,25,The Souled Store 
+126939,Kill'em With Kindness - Variant ( L ), ( L ),126928,69,10183,17,The Souled Store 
+119708,Harry Potter: Pattern - Variant ( XXL ), ( XXL ),119683,23,37746,54,Harry Potter™ 
+119703,Harry Potter: Pattern - Variant ( XS ), ( XS ),119683,0,699,1,Harry Potter™ 
+119707,Harry Potter: Pattern - Variant ( XL ), ( XL ),119683,36,25164,36,Harry Potter™ 
+119704,Harry Potter: Pattern - Variant ( S ), ( S ),119683,53,90870,130,Harry Potter™ 
+119705,Harry Potter: Pattern - Variant ( M ), ( M ),119683,105,76191,109,Harry Potter™ 
+119706,Harry Potter: Pattern - Variant ( L ), ( L ),119683,19,41241,59,Harry Potter™ 
+119446,Harry Potter: Mischief Managed - Variant ( XXL ), ( XXL ),119411,41,16173,27,Harry Potter™ 
+119441,Harry Potter: Mischief Managed - Variant ( XS ), ( XS ),119411,49,10782,18,Harry Potter™ 
+119445,Harry Potter: Mischief Managed - Variant ( XL ), ( XL ),119411,26,13178,22,Harry Potter™ 
+119442,Harry Potter: Mischief Managed - Variant ( S ), ( S ),119411,71,23361,39,Harry Potter™ 
+119443,Harry Potter: Mischief Managed - Variant ( M ), ( M ),119411,62,33544,56,Harry Potter™ 
+119444,Harry Potter: Mischief Managed - Variant ( L ), ( L ),119411,99,15574,26,Harry Potter™ 
+143549,Grey Camo Print - Variant ( XXL ), ( XXL ),143543,1,62895,105,The Souled Store 
+143544,Grey Camo Print - Variant ( XS ), ( XS ),143543,0,12579,21,The Souled Store 
+143548,Grey Camo Print - Variant ( XL ), ( XL ),143543,0,58103,97,The Souled Store 
+143545,Grey Camo Print - Variant ( S ), ( S ),143543,0,33544,56,The Souled Store 
+143546,Grey Camo Print - Variant ( M ), ( M ),143543,0,58702,98,The Souled Store 
+143547,Grey Camo Print - Variant ( L ), ( L ),143543,0,32945,55,The Souled Store 
+119734,Good Vibes Only - Variant ( XXL ), ( XXL ),119686,-1,599,1,The Souled Store 
+119729,Good Vibes Only - Variant ( XS ), ( XS ),119686,0,19168,32,The Souled Store 
+119733,Good Vibes Only - Variant ( XL ), ( XL ),119686,0,1198,2,The Souled Store 
+119730,Good Vibes Only - Variant ( S ), ( S ),119686,-1,27554,46,The Souled Store 
+119731,Good Vibes Only - Variant ( M ), ( M ),119686,45,71281,119,The Souled Store 
+119732,Good Vibes Only - Variant ( L ), ( L ),119686,0,31148,52,The Souled Store 
+135613,GFG: Too Tough To Tackle (Bleached Melange) - Variant ( XS ), ( XS ),135562,0,2396,4,Gujarat Fortune Giants 
+135617,GFG: Too Tough To Tackle (Bleached Melange) - Variant ( XL ), ( XL ),135562,0,2995,5,Gujarat Fortune Giants 
+135614,GFG: Too Tough To Tackle (Bleached Melange) - Variant ( S ), ( S ),135562,1,8386,14,Gujarat Fortune Giants 
+135615,GFG: Too Tough To Tackle (Bleached Melange) - Variant ( M ), ( M ),135562,14,14376,24,Gujarat Fortune Giants 
+135616,GFG: Too Tough To Tackle (Bleached Melange) - Variant ( L ), ( L ),135562,6,8985,15,Gujarat Fortune Giants 
+135607,GFG: Too Tough To Tackle (Black) - Variant ( XS ), ( XS ),135561,3,1198,2,Gujarat Fortune Giants 
+135611,GFG: Too Tough To Tackle (Black) - Variant ( XL ), ( XL ),135561,0,1198,2,Gujarat Fortune Giants 
+135609,GFG: Too Tough To Tackle (Black) - Variant ( M ), ( M ),135561,0,1797,3,Gujarat Fortune Giants 
+135601,GFG: Love Crossing The Line (Bottle Green) - Variant ( XS ), ( XS ),135558,-1,1797,3,Gujarat Fortune Giants 
+135604,GFG: Love Crossing The Line (Bottle Green) - Variant ( L ), ( L ),135558,0,599,1,Gujarat Fortune Giants 
+135600,GFG: Love Crossing The Line (Black) - Variant ( XXL ), ( XXL ),135559,0,1797,3,Gujarat Fortune Giants 
+135597,GFG: Love Crossing The Line (Black) - Variant ( M ), ( M ),135559,0,599,1,Gujarat Fortune Giants 
+135598,GFG: Love Crossing The Line (Black) - Variant ( L ), ( L ),135559,0,599,1,Gujarat Fortune Giants 
+135563,GFG: Giant Hearted - Variant ( XS ), ( XS ),135560,4,4792,8,Gujarat Fortune Giants 
+135567,GFG: Giant Hearted - Variant ( XL ), ( XL ),135560,0,599,1,Gujarat Fortune Giants 
+135564,GFG: Giant Hearted - Variant ( S ), ( S ),135560,0,2396,4,Gujarat Fortune Giants 
+135565,GFG: Giant Hearted - Variant ( M ), ( M ),135560,13,7188,12,Gujarat Fortune Giants 
+119746,Fight Like A Girl - Variant ( XXL ), ( XXL ),119688,0,11381,19,The Souled Store 
+119741,Fight Like A Girl - Variant ( XS ), ( XS ),119688,22,6589,11,The Souled Store 
+119745,Fight Like A Girl - Variant ( XL ), ( XL ),119688,9,19767,33,The Souled Store 
+119742,Fight Like A Girl - Variant ( S ), ( S ),119688,14,14975,25,The Souled Store 
+119743,Fight Like A Girl - Variant ( M ), ( M ),119688,6,20366,34,The Souled Store 
+119744,Fight Like A Girl - Variant ( L ), ( L ),119688,18,9584,16,The Souled Store 
+148698,F.R.I.E.N.D.S: The One With Everyone - Variant ( XS ), ( XS ),148697,22,599,1,F.R.I.E.N.D.S™ 
+148699,F.R.I.E.N.D.S: The One With Everyone - Variant ( S ), ( S ),148697,43,599,1,F.R.I.E.N.D.S™ 
+148700,F.R.I.E.N.D.S: The One With Everyone - Variant ( M ), ( M ),148697,66,599,1,F.R.I.E.N.D.S™ 
+119740,F.R.I.E.N.D.S: Logo - Variant ( XXL ), ( XXL ),119687,116,25757,43,F.R.I.E.N.D.S™ 
+119735,F.R.I.E.N.D.S: Logo - Variant ( XS ), ( XS ),119687,300,19168,32,F.R.I.E.N.D.S™ 
+119739,F.R.I.E.N.D.S: Logo - Variant ( XL ), ( XL ),119687,148,29351,49,F.R.I.E.N.D.S™ 
+119736,F.R.I.E.N.D.S: Logo - Variant ( S ), ( S ),119687,171,32945,55,F.R.I.E.N.D.S™ 
+119737,F.R.I.E.N.D.S: Logo - Variant ( M ), ( M ),119687,168,40133,67,F.R.I.E.N.D.S™ 
+119738,F.R.I.E.N.D.S: Logo - Variant ( L ), ( L ),119687,166,49118,82,F.R.I.E.N.D.S™ 
+119440,Drama Queen - Variant ( XXL ), ( XXL ),119408,99,43128,72,The Souled Store 
+119435,Drama Queen - Variant ( XS ), ( XS ),119408,77,24559,41,The Souled Store 
+119439,Drama Queen - Variant ( XL ), ( XL ),119408,5,42529,71,The Souled Store 
+119436,Drama Queen - Variant ( S ), ( S ),119408,290,25158,42,The Souled Store 
+119437,Drama Queen - Variant ( M ), ( M ),119408,44,58103,97,The Souled Store 
+119438,Drama Queen - Variant ( L ), ( L ),119408,113,49118,82,The Souled Store 
+127044,Cute but Psycho - Variant ( XXL ), ( XXL ),127035,79,20366,34,The Souled Store 
+127039,Cute but Psycho - Variant ( XS ), ( XS ),127035,16,7188,12,The Souled Store 
+127043,Cute but Psycho - Variant ( XL ), ( XL ),127035,78,12579,21,The Souled Store 
+127040,Cute but Psycho - Variant ( S ), ( S ),127035,184,17371,29,The Souled Store 
+127041,Cute but Psycho - Variant ( M ), ( M ),127035,62,16772,28,The Souled Store 
+127042,Cute but Psycho - Variant ( L ), ( L ),127035,92,7787,13,The Souled Store 
+140507,Cute AF - Variant ( XXL ), ( XXL ),140477,16,4194,6,The Souled Store 
+140502,Cute AF - Variant ( XS ), ( XS ),140477,6,11184,16,The Souled Store 
+140506,Cute AF - Variant ( XL ), ( XL ),140477,17,6291,9,The Souled Store 
+140503,Cute AF - Variant ( S ), ( S ),140477,26,3495,5,The Souled Store 
+140504,Cute AF - Variant ( M ), ( M ),140477,68,7689,11,The Souled Store 
+140505,Cute AF - Variant ( L ), ( L ),140477,2,2097,3,The Souled Store 
+131936,Cat Yoga Pattern - Variant ( XXL ), ( XXL ),131930,9,25158,42,The Souled Store 
+131931,Cat Yoga Pattern - Variant ( XS ), ( XS ),131930,53,15574,26,The Souled Store 
+131935,Cat Yoga Pattern - Variant ( XL ), ( XL ),131930,53,17970,30,The Souled Store 
+131932,Cat Yoga Pattern - Variant ( S ), ( S ),131930,65,33544,56,The Souled Store 
+131933,Cat Yoga Pattern - Variant ( M ), ( M ),131930,336,26955,45,The Souled Store 
+131934,Cat Yoga Pattern - Variant ( L ), ( L ),131930,166,13777,23,The Souled Store 
+134083,Captain Marvel: Logo - Variant ( XXL ), ( XXL ),134077,0,599,1,Marvel™ 
+134078,Captain Marvel: Logo - Variant ( XS ), ( XS ),134077,0,1797,3,Marvel™ 
+134082,Captain Marvel: Logo - Variant ( XL ), ( XL ),134077,0,16173,27,Marvel™ 
+134079,Captain Marvel: Logo - Variant ( S ), ( S ),134077,0,24559,41,Marvel™ 
+134080,Captain Marvel: Logo - Variant ( M ), ( M ),134077,-1,18569,31,Marvel™ 
+134081,Captain Marvel: Logo - Variant ( L ), ( L ),134077,0,13178,22,Marvel™ 
+139608,Camo Print - Variant ( XXL ), ( XXL ),139602,24,141897,203,The Souled Store 
+139603,Camo Print - Variant ( XS ), ( XS ),139602,0,16776,24,The Souled Store 
+139607,Camo Print - Variant ( XL ), ( XL ),139602,0,81084,116,The Souled Store 
+139604,Camo Print - Variant ( S ), ( S ),139602,0,18174,26,The Souled Store 
+139605,Camo Print - Variant ( M ), ( M ),139602,1,42639,61,The Souled Store 
+139606,Camo Print - Variant ( L ), ( L ),139602,0,68502,98,The Souled Store 
+133964,Cactus Pattern - Variant ( XXL ), ( XXL ),133957,-1,5990,10,The Souled Store 
+133959,Cactus Pattern - Variant ( XS ), ( XS ),133957,-1,13178,22,The Souled Store 
+133963,Cactus Pattern - Variant ( XL ), ( XL ),133957,0,22163,37,The Souled Store 
+133960,Cactus Pattern - Variant ( S ), ( S ),133957,-1,5391,9,The Souled Store 
+133961,Cactus Pattern - Variant ( M ), ( M ),133957,0,5391,9,The Souled Store 
+133962,Cactus Pattern - Variant ( L ), ( L ),133957,0,42529,71,The Souled Store 
+140485,Boats And Waves - Variant ( S ), ( S ),140474,0,1797,3,The Souled Store 
+140486,Boats And Waves - Variant ( M ), ( M ),140474,1,1198,2,The Souled Store 
+140487,Boats And Waves - Variant ( L ), ( L ),140474,0,599,1,The Souled Store 
+146479,Blah - Variant ( XXL ), ( XXL ),146473,0,4792,8,The Souled Store 
+146474,Blah - Variant ( XS ), ( XS ),146473,0,9584,16,The Souled Store 
+146478,Blah - Variant ( XL ), ( XL ),146473,0,12579,21,The Souled Store 
+146475,Blah - Variant ( S ), ( S ),146473,15,10782,18,The Souled Store 
+146476,Blah - Variant ( M ), ( M ),146473,25,14975,25,The Souled Store 
+146477,Blah - Variant ( L ), ( L ),146473,16,8985,15,The Souled Store 
+133568,Addicted To Black - Variant ( XXL ), ( XXL ),133560,21,10782,18,The Souled Store 
+133563,Addicted To Black - Variant ( XS ), ( XS ),133560,25,599,1,The Souled Store 
+133567,Addicted To Black - Variant ( XL ), ( XL ),133560,18,9584,16,The Souled Store 
+133564,Addicted To Black - Variant ( S ), ( S ),133560,85,4792,8,The Souled Store 
+133565,Addicted To Black - Variant ( M ), ( M ),133560,74,4193,7,The Souled Store 
+133566,Addicted To Black - Variant ( L ), ( L ),133560,20,9584,16,The Souled Store 
